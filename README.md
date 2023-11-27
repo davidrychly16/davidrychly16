@@ -2,7 +2,7 @@ Hi, my name is David Rychly, currently finishing my studies at Brno University o
 My portfolio of my projects, currently including:
   Modelling of materials 2 project - probability of rotating spins and plotting
   Importing APIs via google apps script to google tabs in cooperation with chat GPT
-  Soon included my master thesis in Python for Machine Learning about prediction of adhesive wear in mechanical contact in cooperation with Garrett Motion company
+  Soon included my master thesis in Python for Machine Learning about prediction of adhesive wear in mechanical contact in cooperation with Garrett Motion company.
 
   I am looking for IT internships or junior positions mainly in Python or related languages.
 
