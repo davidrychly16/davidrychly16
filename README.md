@@ -6,6 +6,6 @@ My portfolio of my projects, currently including:
   Soon included my master thesis in Python for Machine Learning about prediction of adhesive wear in mechanical contact in cooperation with Garrett Motion company.
   Soon included code when developing the library for OpenAI and RobotFramework connection.
 
-  Currently looking for junior positions in IT mainly in Python or related languages.
+  Currently looking for junior positions in IT mainly in Python or related languages. If you know about smth or looking for someone with my profile, let me know!
 
   You can contact me via email davidrychly16@gmail.com or here. Looking forward to our cooperation!
