@@ -1,11 +1,3 @@
-Hi, my name is David Rychly, currently being Intern at Continero and developing library for connecting OpenAI with RobotFramework for software testing, finishing my studies at Brno University of technology in the field of Material sciences and pursuing goal of starting a career in IT!
-
-My portfolio of my projects, currently including:
-  Modelling of materials 2 project - probability of rotating spins and plotting
-  Importing APIs via google apps script to google tabs in cooperation with chat GPT
-  Soon included my master thesis in Python for Machine Learning about prediction of adhesive wear in mechanical contact in cooperation with Garrett Motion company.
-  Soon included code when developing the library for OpenAI and RobotFramework connection.
-
-  Currently looking for junior positions in IT mainly in Python or related languages. If you know about smth or looking for someone with my profile, let me know!
+Hi, my name is David Rychly, currently looking for a first job in IT field in order to start a successful career! I specialize in Python - skillset developed by my Internship at Continero Corp - developing library for connecting OpenAI with RobotFramework for software testing and my Master thesis using machine learning models in order to predict wear of kinematic mechanisms of turbocharger in cooperation with Garrett Motion company. And more currently being in progress!
 
   You can contact me via email davidrychly16@gmail.com or here. Looking forward to our cooperation!
