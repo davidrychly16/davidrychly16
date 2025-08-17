@@ -1,3 +1,5 @@
-Hi, my name is David Rychly, currently looking for a first job in IT field in order to start a successful career! I specialize in Python - skillset developed by my Internship at Continero Corp - developing library for connecting OpenAI with RobotFramework for software testing and my Master thesis using machine learning models in order to predict wear of kinematic mechanisms of turbocharger in cooperation with Garrett Motion company. And more currently being in progress!
+Marketing strategist | Copywriter | Community and Brand builder | Ex-materials engineer with Master thesis in Python.
 
-  You can contact me via email davidrychly16@gmail.com or here. Looking forward to our cooperation!
+Need marketing strategy, texts that are way better than AI generated or event related stuff? Let's connect and see how I can benefit you!
+
+Contact me here or via email davidrychly16@gmail.com
